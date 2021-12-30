@@ -1,0 +1,6 @@
+1.python -m venv env =============to install env on current environmnt
+2.env\scripts\activate ============to actvate the env
+3.simply type <deactivate> and hit enter to deactivate =========
+4.pip freeze > requirement.txt =========to know packages vesrion needed for this prjct to run
+5.pip install -r requirement.txt ========= to install the packages on some other env
+
